@@ -26,7 +26,7 @@
 
 ![修改workflow](assets/check.png)
 
-## 讨论群
+##  ghosx/tieba讨论群
 
 TG： https://t.me/tiebasign
 
